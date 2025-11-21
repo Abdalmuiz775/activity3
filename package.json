@@ -1,0 +1,12 @@
+{
+  "name": "sandbox-manager",
+  "version": "1.0.0",
+  "description": "A secure sandbox controller",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+}
